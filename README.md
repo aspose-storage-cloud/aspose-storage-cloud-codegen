@@ -4,10 +4,7 @@
 Our Cloud SDKs are wrappers around REST API in various programming languages, allowing you to process documents in language of your choice quickly and easily, gaining all benefits of strong types and IDE highlights. This repository contains new generation SDKs for Aspose.Storage for Cloud and examples.
 
 These SDKs are now fully supported. If you have any questions, see any bugs or have enhancement request, feel free to reach out to us at [Free Support Forums](https://forum.aspose.cloud/).
-
-# Key Features
-* 
-
+ 
 See [API Reference](https://apireference.aspose.cloud/storage/) for full API specification.
 
 # Currently Available SDKs
