@@ -107,3 +107,7 @@ hs_err_pid*
 *.xcuserstate*StyleCop.Cache
 *StyleCop.Cache
 SDKs/NET/.vs/*
+/codegen/SDKs
+/SDKs/NET/Aspose.Storage.Cloud.Sdk/*.nuspec
+/SDKs/NET/Aspose.Storage.Cloud.Sdk/*.Nuget.csproj
+/SDKs/NET/Aspose.Storage.Cloud.Sdk/*.nupkg 
