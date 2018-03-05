@@ -47,17 +47,17 @@ namespace Example
                 AppKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
             };
 
-            var apiInstance = new FileApi(configuration);
+            var apiInstance = new StorageApi(configuration);
 	    try
 	    {		
 		    var request = new FileGetDownloadRequest();
 		    request.path = "TestFile.pdf";
 		    request.storage = "StorageName";
-		    var response = FileApi.FileGetDownload(request);
+		    var response = StorageApi.FileGetDownload(request);
 	    }
 	    catch(Exception ex)
 	    {
-	    	Debug.Print("Exception when calling FileApi.FileGetDownload: " + e.Message);
+	    	Debug.Print("Exception when calling StorageApi.FileGetDownload: " + e.Message);
 	    }
             
 
