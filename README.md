@@ -57,7 +57,7 @@ namespace Example
 	    }
 	    catch(Exception ex)
 	    {
-	    	Debug.Print("Exception when calling StorageApi.FileGetDownload: " + e.Message);
+	    	Debug.Print("Exception when calling StorageApi.FileGetDownload: " + ex.Message);
 	    }
             
 
