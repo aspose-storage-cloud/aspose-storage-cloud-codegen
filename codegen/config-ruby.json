@@ -1,6 +1,6 @@
 {
-	"moduleName": "AsposeStorageSdk",
-	"gemVersion": "18.4",
-	"gemName": "aspose_storage_sdk",
+	"moduleName": "AsposeStorageCloud",
+	"gemVersion": "18.5",
+	"gemName": "aspose_storage_cloud",
 	"variableNamingConvention":"camelCase"
 }
